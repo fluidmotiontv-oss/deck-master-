@@ -1,0 +1,7 @@
+{
+  "name": "DRAGON 9 - Master Animation Deck",
+  "description": "18-minute master anime production deck with Seedance 2.5 diffusion prompts, Unreal Engine 5.4 Niagara plasma specs, 54-minute harmonic engine, and interactive audio-visual timeline player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
